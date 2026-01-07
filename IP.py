@@ -441,6 +441,7 @@ class PortScanner:
 # User Interface and Reporting
 # ============================================================================
 
+
 class ScannerUI:
     """Scanner user interface"""
     
@@ -811,6 +812,7 @@ def main():
 # CLI Support
 # ============================================================================
 
+
 def cli_mode():
     """Command Line Interface mode"""
     parser = argparse.ArgumentParser(description='Advanced Security Scanner Pro v3.0')
@@ -877,6 +879,7 @@ def cli_mode():
 # ============================================================================
 # Program Execution
 # ============================================================================
+
 
 if __name__ == "__main__":
     try:
