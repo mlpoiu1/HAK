@@ -450,8 +450,8 @@ class ScannerUI:
         banner = """
 ╔══════════════════════════════════════════════════════════╗
 ║     🚀 Advanced Security Scanner Pro v3.0                ║
-║     📍 Geolocation + Port Scan + CVE Detection          ║
-║     ⚠️  For Educational & Authorized Testing Only        ║
+║     📍 Geolocation + Port Scan + CVE Detection           ║
+║     ⚠️  For Educational & Authorized Testing Only         ║
 ╚══════════════════════════════════════════════════════════╝
         """
         print(banner)
